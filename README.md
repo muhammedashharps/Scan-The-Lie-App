@@ -18,8 +18,8 @@
 <br/>
 
 <div align="center">
-  <a href="scan-the-lie.apk">
-    <img src="https://img.shields.io/badge/Download-APK-success?style=for-the-badge&logo=android&logoColor=white" alt="Download APK" height="50" />
+  <a href="https://github.com/muhammedashharps/Scan-The-Lie-App/raw/main/scan-the-lie.apk">
+    <img src="https://img.shields.io/badge/⬇_Download_APK-4CAF50?style=for-the-badge&logoColor=white" alt="Download APK" height="50" />
   </a>
 </div>
 
