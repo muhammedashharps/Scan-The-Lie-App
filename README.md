@@ -138,28 +138,11 @@ flutter run
 
 ---
 
-## 📊 Hackathon Criteria
-
-| Criteria | Implementation |
-|----------|----------------|
-| **Technical Execution (40%)** | Clean Flutter architecture, robust Gemini 3 integration, dual-image multimodal analysis |
-| **Innovation (30%)** | Novel dual-scan claim verification, personalized AI health analysis |
-| **Impact (20%)** | Empowers informed food choices, combats deceptive marketing |
-| **Presentation (10%)** | Intuitive UI, comprehensive documentation |
-
----
 
 ## 👨‍💻 About
 
 Built with ❤️ for the **Gemini 3 Global Hackathon** by a developer passionate about consumer empowerment through technology.
 
----
-
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
 
 <div align="center">
 
