@@ -6,6 +6,23 @@
 [![Powered by Gemini 3](https://img.shields.io/badge/Powered_by-Gemini_3-4285F4?logo=google)](https://deepmind.google/technologies/gemini/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
+
+<div align="center">
+  <img src="https://via.placeholder.com/150x300?text=Screen+1" width="18%" />
+  <img src="https://via.placeholder.com/150x300?text=Screen+2" width="18%" />
+  <img src="https://via.placeholder.com/150x300?text=Screen+3" width="18%" />
+  <img src="https://via.placeholder.com/150x300?text=Screen+4" width="18%" />
+  <img src="https://via.placeholder.com/150x300?text=Screen+5" width="18%" />
+</div>
+
+<br/>
+
+<div align="center">
+  <a href="scan-the-lie.apk">
+    <img src="https://img.shields.io/badge/Download-APK-success?style=for-the-badge&logo=android&logoColor=white" alt="Download APK" height="50" />
+  </a>
+</div>
+
 ---
 
 ## 🎯 The Problem
