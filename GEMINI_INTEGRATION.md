@@ -29,9 +29,9 @@ flowchart LR
 
 ---
 
-### 2. Structured JSON Output Generation
+### 2. Structured Output Generation
 
-Gemini 3 outputs **strongly-typed JSON schemas** directly from visual analysis:
+Gemini 3 outputs **strongly-typed JSON schemas** directly from visual analysis of the scanned food product:
 
 ```mermaid
 flowchart TB
