@@ -1,7 +1,5 @@
 # Gemini 3 Integration – Scan The Lie
 
-> **Vision-to-Structured-Data Extraction with Logical Reasoning**
-
 This document provides a technical breakdown of how **Scan The Lie** leverages Google's Gemini 3 capabilities.
 
 ---
@@ -103,15 +101,6 @@ flowchart LR
     F --> I["⚠️ High glycemic index"]
 ```
 
-**Implementation:**
-```
-User Profile: ${userPrefs.toPromptString()}
-- Health concerns: ${userPrefs.healthConcerns.join(', ')}
-- Allergies: ${userPrefs.allergies.join(', ')}
-- Dietary: ${userPrefs.dietaryPreferences.join(', ')}
-```
-
----
 
 ### 5. Context-Preserving Chat
 
@@ -131,16 +120,6 @@ sequenceDiagram
     Chat->>User: "It has 3g protein per serving, which<br/>is relatively low. Consider pairing with<br/>a protein source to balance blood sugar."
 ```
 
----
-
-## 🔧 Model Configuration
-
-| Setting | Value | Purpose |
-|---------|-------|---------|
-| Vision Model | `gemini-3-flash-preview` | User-selected for scanning |
-| Chat Model | `gemini-flash-latest` | Fixed for consistent chat experience |
-| Output Format | JSON | Structured parsing |
-| Safety Filters | Default | Content moderation |
 
 ---
 
@@ -160,12 +139,12 @@ Robust error classification with user-friendly messages:
 
 ## 📊 Why This Matters
 
-This project demonstrates Gemini 3 as a **reasoning engine over visual data**:
+This project demonstrates Gemini 3 as a **a complete reasoning engine over visual data**:
 
 1. **OCR + Understanding** – Not just reading text, but understanding context
 2. **Knowledge Application** – Applying food science knowledge to verify claims
 3. **Logical Verification** – Cross-referencing data within a single inference
-4. **Personalization** – Adapting output based on injected user context
+4. **Personalization** – Adapting output based on injected user context about user's health profile
 
 All executed through **multimodal prompts** without external databases or post-processing.
 
