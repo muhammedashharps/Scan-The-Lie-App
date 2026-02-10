@@ -8,11 +8,13 @@
 
 
 <div align="center">
-  <img src="https://via.placeholder.com/150x300?text=Screen+1" width="18%" />
-  <img src="https://via.placeholder.com/150x300?text=Screen+2" width="18%" />
-  <img src="https://via.placeholder.com/150x300?text=Screen+3" width="18%" />
-  <img src="https://via.placeholder.com/150x300?text=Screen+4" width="18%" />
-  <img src="https://via.placeholder.com/150x300?text=Screen+5" width="18%" />
+  <img src="screenshots/screen1.png" width="13%" />
+  <img src="screenshots/screen2.png" width="13%" />
+  <img src="screenshots/screen3.png" width="13%" />
+  <img src="screenshots/screen4.png" width="13%" />
+  <img src="screenshots/screen5.png" width="13%" />
+  <img src="screenshots/screen6.png" width="13%" />
+  <img src="screenshots/screen7.png" width="13%" />
 </div>
 
 <br/>
