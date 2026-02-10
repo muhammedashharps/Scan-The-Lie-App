@@ -1,6 +1,6 @@
 # 🔍 Scan The Lie
 
-> **Empowering consumers to expose deceptive food marketing — one scan at a time.**
+> **Empowering consumers to expose deceptive food marketing and eat healthier**
 
 [![Built with Flutter](https://img.shields.io/badge/Built_with-Flutter-02569B?logo=flutter)](https://flutter.dev)
 [![Powered by Gemini 3](https://img.shields.io/badge/Powered_by-Gemini_3-4285F4?logo=google)](https://deepmind.google/technologies/gemini/)
@@ -10,7 +10,7 @@
 | | | | |
 |:---:|:---:|:---:|:---:|
 | ![Screen 1](screenshots/screen1.png) | ![Screen 2](screenshots/screen2.png) | ![Screen 3](screenshots/screen3.png) | ![Screen 4](screenshots/screen4.png) |
-| ![Screen 5](screenshots/screen5.png) | ![Screen 6](screenshots/screen6.png) | ![Screen 7](screenshots/screen7.png) | |
+| ![Screen 5](screenshots/screen5.png) | ![Screen 6](screenshots/screen6.png) | ![Screen 7](screenshots/screen7.png) | ![Screen 7](screenshots/screen7.png) |
 
 <br/>
 
