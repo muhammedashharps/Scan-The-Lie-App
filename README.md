@@ -7,15 +7,10 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
 
-<div align="center">
-  <img src="screenshots/screen1.png" width="13%" />
-  <img src="screenshots/screen2.png" width="13%" />
-  <img src="screenshots/screen3.png" width="13%" />
-  <img src="screenshots/screen4.png" width="13%" />
-  <img src="screenshots/screen5.png" width="13%" />
-  <img src="screenshots/screen6.png" width="13%" />
-  <img src="screenshots/screen7.png" width="13%" />
-</div>
+| | | | |
+|:---:|:---:|:---:|:---:|
+| ![Screen 1](screenshots/screen1.png) | ![Screen 2](screenshots/screen2.png) | ![Screen 3](screenshots/screen3.png) | ![Screen 4](screenshots/screen4.png) |
+| ![Screen 5](screenshots/screen5.png) | ![Screen 6](screenshots/screen6.png) | ![Screen 7](screenshots/screen7.png) | |
 
 <br/>
 
